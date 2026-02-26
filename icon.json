@@ -1,8 +1,6 @@
 {
   "name":"自用", "description":"why自用", 
   "icons":[
-    {"name":"1", "url":"https:\/\/raw.githubusercontent.com\/why0607\/why\/main\/icon\/1.png"},
-    {"name":"2", "url":"https:\/\/raw.githubusercontent.com\/why0607\/why\/main\/icon\/2.png"},
     {"name":"alphatv", "url":"https:\/\/raw.githubusercontent.com\/why0607\/why\/main\/icon\/alphatv.png"},
     {"name":"alphatv", "url":"https:\/\/raw.githubusercontent.com\/why0607\/why\/main\/icon\/alphatv.png"},
     {"name":"alphatv-child", "url":"https:\/\/raw.githubusercontent.com\/why0607\/why\/main\/icon\/alphatv-child.png"},
