@@ -7,6 +7,8 @@ host-keyword, 711.lo, PROXY
 host-keyword, cc.coe, PROXY
 #jms
 host-keyword, cr18, PROXY
+#jsq
+host-keyword, mooguu,  PROXY
 #kiku
 host-keyword, ucloudho, PROXY
 #laoda
@@ -15,6 +17,8 @@ host-keyword, kessok, PROXY
 host-keyword, levilde.bo, PROXY
 #meowfly
 host-keyword, meowfly, PROXY
+#sd
+host-keyword, saturday, PROXY
 #sfcj
 host-keyword, sfcj, PROXY
 #shufu
@@ -23,8 +27,6 @@ host-keyword, mcjok, PROXY
 host-keyword, e.cn2gias.uk, PROXY
 #tanhuatv
 host-keyword, tanhua, PROXY
-#terminus
-host-keyword, wtf, PROXY
 #youno
 host-keyword, youno, PROXY
 #yqb
