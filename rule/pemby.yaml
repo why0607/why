@@ -7,6 +7,8 @@ payload:
 #cc
   - DOMAIN-KEYWORD,cc.emb
   - DOMAIN-KEYWORD,cc.coe
+#caihong
+  - DOMAIN-KEYWORD,feiyue
 #jms
   - DOMAIN-KEYWORD,cr18
 #jsq
