@@ -5,19 +5,24 @@ payload:
 #ask
   - DOMAIN-KEYWORD,711.lo
 #cc
+  - DOMAIN-KEYWORD,cc.emb
   - DOMAIN-KEYWORD,cc.coe
 #jms
   - DOMAIN-KEYWORD,cr18
 #jsq
-  - DOMAIN-KEYWORD,mooguu
+  - DOMAIN-KEYWORD,jsq.v
 #kiku
   - DOMAIN-KEYWORD,ucloudho
 #laoda
   - DOMAIN-KEYWORD,kessok
 #levilde
-  - DOMAIN-KEYWORD,levilde.bo
+  - DOMAIN-KEYWORD,levilde
 #meowfly
   - DOMAIN-KEYWORD,meowfly
+#nanflix
+  - DOMAIN-KEYWORD,a.nanfl
+#peach
+  - DOMAIN-KEYWORD,te.embymv
 #sd
   - DOMAIN-KEYWORD,saturday
 #sfcj

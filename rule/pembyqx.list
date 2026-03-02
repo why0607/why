@@ -4,19 +4,24 @@ host-keyword, alphatv, PROXY
 #ask
 host-keyword, 711.lo, PROXY
 #cc
+host-keyword, cc.emb, PROXY
 host-keyword, cc.coe, PROXY
 #jms
 host-keyword, cr18, PROXY
 #jsq
-host-keyword, mooguu,  PROXY
+host-keyword, jsq.v,  PROXY
 #kiku
 host-keyword, ucloudho, PROXY
 #laoda
 host-keyword, kessok, PROXY
 #levilde
-host-keyword, levilde.bo, PROXY
+host-keyword, levilde, PROXY
 #meowfly
 host-keyword, meowfly, PROXY
+#nanflix
+host-keyword, a.nanfl, PROXY
+#peach
+host-keyword, te.embymv, PROXY
 #sd
 host-keyword, saturday, PROXY
 #sfcj
