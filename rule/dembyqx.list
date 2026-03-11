@@ -3,19 +3,12 @@
 host-keyword, 204clo, DIRECT
 #ask
 host-keyword, asuba, DIRECT
-#dv
-host-keyword, viclu, DIRECT
-host-keyword, 06699.x, DIRECT
 #lily
 host-keyword, lilyem, DIRECT
 #lyrebird
 host-keyword, birdemby, DIRECT
-#mooncake
-host-keyword, emby.m, DIRECT
 #myg
 host-keyword, aiemb, DIRECT
-#nayovo
-host-keyword, niao.00, DIRECT
 #nanflix
 host-keyword, p.nanfl, DIRECT
 #nya
@@ -28,5 +21,10 @@ host-keyword, 28.al, DIRECT
 host-keyword, sherkme, DIRECT
 #uhd
 host-keyword, uhd, DIRECT
+#v
+host-keyword, viclu, DIRECT
+host-keyword, 06699.x, DIRECT
 #wenjian
 host-keyword, wenjian, DIRECT
+#yuebing
+host-keyword, emby.m, DIRECT

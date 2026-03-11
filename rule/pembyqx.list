@@ -6,28 +6,26 @@ host-keyword, 711.lo, PROXY
 #cc
 host-keyword, cc.emb, PROXY
 host-keyword, cc.coe, PROXY
-#caihong
+#feiyue
+host-keyword, sfcj, PROXY
+#fych
 host-keyword, feiyue, PROXY
+#fyyqb
+host-keyword, emby.heis, PROXY
 #jms
 host-keyword, cr18, PROXY
 #jsq
 host-keyword, jsq.v,  PROXY
 #kiku
 host-keyword, ucloudho, PROXY
-#laoda
-host-keyword, kessok, PROXY
 #levilde
 host-keyword, levilde, PROXY
-#meowfly
-host-keyword, meowfly, PROXY
 #nanflix
 host-keyword, a.nanfl, PROXY
 #peach
 host-keyword, te.embymv, PROXY
 #sd
 host-keyword, saturday, PROXY
-#sfcj
-host-keyword, sfcj, PROXY
 #shufu
 host-keyword, mcjok, PROXY
 #sntp
@@ -36,7 +34,7 @@ host-keyword, e.cn2gias.uk, PROXY
 host-keyword, tanhua, PROXY
 #youno
 host-keyword, youno, PROXY
-#yqb
-host-keyword, emby.heis, PROXY
 #zpr
 host-keyword, embypl, PROXY
+#yuedui
+host-keyword, kessok, PROXY
