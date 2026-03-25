@@ -28,8 +28,6 @@ host-keyword, te.embymv, PROXY
 host-keyword, saturday, PROXY
 #shufu
 host-keyword, mcjok, PROXY
-#sntp
-host-keyword, e.cn2gias.uk, PROXY
 #tanhuatv
 host-keyword, tanhua, PROXY
 #youno

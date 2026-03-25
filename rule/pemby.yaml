@@ -29,8 +29,6 @@ payload:
   - DOMAIN-KEYWORD,saturday
 #shufu
   - DOMAIN-KEYWORD,mcjok
-#sntp
-  - DOMAIN-KEYWORD,e.cn2gias.uk
 #tanhuatv
   - DOMAIN-KEYWORD,tanhua
 #youno
