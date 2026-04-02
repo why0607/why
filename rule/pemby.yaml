@@ -31,6 +31,8 @@ payload:
   - DOMAIN-KEYWORD,mcjok
 #tanhuatv
   - DOMAIN-KEYWORD,tanhua
+#wenjian
+  - DOMAIN-KEYWORD,wenjian
 #youno
   - DOMAIN-KEYWORD,youno
 #yuedui
