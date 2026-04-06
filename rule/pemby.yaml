@@ -4,11 +4,6 @@ payload:
   - DOMAIN-KEYWORD,alphatv
 #ask
   - DOMAIN-KEYWORD,711.lo
-#cc
-  - DOMAIN-KEYWORD,cc.emb
-  - DOMAIN-KEYWORD,cc.coe
-#feiyue
-  - DOMAIN-KEYWORD,sfcj
 #fych
   - DOMAIN-KEYWORD,feiyue
 #fyyqb
@@ -35,7 +30,7 @@ payload:
   - DOMAIN-KEYWORD,wenjian
 #youno
   - DOMAIN-KEYWORD,youno
-#yuedui
+#yd
   - DOMAIN-KEYWORD,kessok
 #zpr
   - DOMAIN-KEYWORD,embypl

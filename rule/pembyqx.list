@@ -3,11 +3,6 @@
 host-keyword, alphatv, PROXY
 #ask
 host-keyword, 711.lo, PROXY
-#cc
-host-keyword, cc.emb, PROXY
-host-keyword, cc.coe, PROXY
-#feiyue
-host-keyword, sfcj, PROXY
 #fych
 host-keyword, feiyue, PROXY
 #fyyqb
@@ -34,7 +29,7 @@ host-keyword, tanhua, PROXY
 host-keyword, wenjian, PROXY
 #youno
 host-keyword, youno, PROXY
+#yd
+host-keyword, kessok, PROXY
 #zpr
 host-keyword, embypl, PROXY
-#yuedui
-host-keyword, kessok, PROXY
