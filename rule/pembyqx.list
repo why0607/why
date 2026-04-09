@@ -9,8 +9,6 @@ host-keyword, feiyue, PROXY
 host-keyword, emby.heis, PROXY
 #jms
 host-keyword, cr18, PROXY
-#jsq
-host-keyword, jsq.v,  PROXY
 #kiku
 host-keyword, ucloudho, PROXY
 #levilde
@@ -23,11 +21,9 @@ host-keyword, a.nanfl, PROXY
 host-keyword, te.embymv.l, PROXY
 #sd
 host-keyword, saturday, PROXY
-#shufu
-host-keyword, mcjok, PROXY
-#tanhuatv
+#th
 host-keyword, tanhua, PROXY
-#wenjian
+#wj
 host-keyword, wenjian, PROXY
 #youno
 host-keyword, youno, PROXY

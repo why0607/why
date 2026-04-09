@@ -10,8 +10,6 @@ payload:
   - DOMAIN-KEYWORD,emby.heis
 #jms
   - DOMAIN-KEYWORD,cr18
-#jsq
-  - DOMAIN-KEYWORD,jsq.v
 #kiku
   - DOMAIN-KEYWORD,ucloudho
 #levilde
@@ -24,11 +22,9 @@ payload:
   - DOMAIN-KEYWORD,te.embymv.l
 #sd
   - DOMAIN-KEYWORD,saturday
-#shufu
-  - DOMAIN-KEYWORD,mcjok
-#tanhuatv
+#th
   - DOMAIN-KEYWORD,tanhua
-#wenjian
+#wj
   - DOMAIN-KEYWORD,wenjian
 #youno
   - DOMAIN-KEYWORD,youno
