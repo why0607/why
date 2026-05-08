@@ -4,8 +4,6 @@ host-keyword, alphatv, PROXY
 host-keyword, six.sit, PROXY
 #ask
 host-keyword, 711.lo, PROXY
-#fyyqb
-host-keyword, emby.heis, PROXY
 #jms
 host-keyword, cr18, PROXY
 #kiku
@@ -20,11 +18,11 @@ host-keyword, te.embymv.l, PROXY
 host-keyword, saturday, PROXY
 #th
 host-keyword, tanhua, PROXY
-#wj
-host-keyword, wenjian, PROXY
 #youno
 host-keyword, youno, PROXY
 #yd
 host-keyword, kessok, PROXY
+#yqb
+host-keyword, emby.heis, PROXY
 #zpr
 host-keyword, embypl, PROXY
