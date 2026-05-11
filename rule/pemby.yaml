@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,six.sit
 #ask
   - DOMAIN-KEYWORD,711.lo
+  - DOMAIN-KEYWORD,sk.as
 #jms
   - DOMAIN-KEYWORD,cr18
 #kiku
